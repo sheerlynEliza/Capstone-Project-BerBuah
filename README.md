@@ -37,7 +37,7 @@ In this project, we created a tensorflow model to classify fruit through image p
 ```
 
 ## Dataset
-We used [this dataset](https://www.kaggle.com/datasets/ilyasaaffan/iwannafruits) that contains training data, test data and validation data to train our model.
+We used [this dataset](https://www.kaggle.com/datasets/ilyasaaffan/iwannafruits) from kaggle that contains training data, test data and validation data to train our model.
 
 This dataset contains 3600 images (10 fruits), but we only used 7 fruits from 10 fruits in the dataset.
 Here are the following lists of 7 fruits that we used
